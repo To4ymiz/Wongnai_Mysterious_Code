@@ -1,12 +1,21 @@
 # Wongnai_Mysterious_Code
 
+
+**Coding Quiz**
+```
+var whatIsIt string
+
+secret := "aWFuZ25vVzpOQU06RU5JTDp0YTpzdTpuaW9K"
+
+sd, _ := base64.StdEncoding.DecodeString(secret)
+```
 **Secret Code**
 
 ```
 secret = "aWFuZ25vVzpOQU06RU5JTDp0YTpzdTpuaW9K"
 ```
 
-**Out Put**
+**OutPut**
 
 ```
 output = iangnoW:NAM:ENIL:ta:su:nioJ
